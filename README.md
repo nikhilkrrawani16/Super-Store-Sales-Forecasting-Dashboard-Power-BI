@@ -28,8 +28,8 @@ It combines **sales performance analytics** with **time-series forecasting** to 
 
 | Dashboard Type | Preview |
 |---------------|--------|
-| **Sales Performance Dashboard** | !(https://github.com/nikhilkrrawani16/Super-Store-Sales-Forecasting-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png) |
-| **Sales Forecasting Dashboard** | !(https://github.com/nikhilkrrawani16/Super-Store-Sales-Forecasting-Dashboard-Power-BI/blob/main/Sales%20Forecast.png) |
+![Sales Dashboard](https://github.com/nikhilkrrawani16/Super-Store-Sales-Forecasting-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png) |
+![Sales Forecast](https://github.com/nikhilkrrawani16/Super-Store-Sales-Forecasting-Dashboard-Power-BI/blob/main/Sales%20Forecast.png) |
 
 ---
 
